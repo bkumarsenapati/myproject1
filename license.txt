@@ -177,4 +177,3 @@
 Hi Jenkin,
 My name is Bikash, Nice to meet you.
 I am testing that jenkin will be able triggered the code or not!
-testing Automation
